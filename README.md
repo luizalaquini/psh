@@ -1,4 +1,5 @@
 # psh (Passaport Shell)
+![GitHub](https://img.shields.io/github/license/luizalaquini/psh)
 ![GitHub followers](https://img.shields.io/github/followers/luizalaquini?label=Follow&style=social)
 
 Implementação de uma Shell no Linux - Trabalho de Sistemas Operacionais - Tem como objetivo fixar a manipulação de processos.
